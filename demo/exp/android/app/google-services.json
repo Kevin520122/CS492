@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "710317360580",
+    "project_id": "funny-32a71",
+    "storage_bucket": "funny-32a71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710317360580:android:0db6e14f7830a363dd1091",
+        "android_client_info": {
+          "package_name": "com.example.exp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710317360580-85gnp58g9iua2gqkqs3bgmc8p9j48nbu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.exp",
+            "certificate_hash": "2395c01b58b73ee0ac082fbd8ac82c25b4490541"
+          }
+        },
+        {
+          "client_id": "710317360580-oeqihijmuhlqcgccdn56hepgd5tdl4rv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj-20IiPWVlPmVkTrKsty45zL__UuZYq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710317360580-oeqihijmuhlqcgccdn56hepgd5tdl4rv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

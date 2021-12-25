@@ -1,0 +1,3 @@
+keytool -list -v -alias androiddebugkey -keystore %USERPROFILE%\.android\debug.keystore
+
+23:95:C0:1B:58:B7:3E:E0:AC:08:2F:BD:8A:C8:2C:25:B4:49:05:41

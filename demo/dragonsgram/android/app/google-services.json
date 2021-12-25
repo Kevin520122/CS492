@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "651116187130",
+    "project_id": "dragonsgram",
+    "storage_bucket": "dragonsgram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651116187130:android:7a6069162d4c4d0a6c6843",
+        "android_client_info": {
+          "package_name": "com.example.dragonsgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651116187130-5phle2jrus26h80kq25aj25rpult2r1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dragonsgram",
+            "certificate_hash": "2395c01b58b73ee0ac082fbd8ac82c25b4490541"
+          }
+        },
+        {
+          "client_id": "651116187130-sd5r8kuvafkkbdifkonlm0kgblvff075.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxweuQ1rb4GcbcbH6webRi0U8P9IiRX9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651116187130-sd5r8kuvafkkbdifkonlm0kgblvff075.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
